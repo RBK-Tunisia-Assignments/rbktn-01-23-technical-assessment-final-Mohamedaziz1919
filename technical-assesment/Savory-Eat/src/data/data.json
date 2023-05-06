@@ -37,16 +37,6 @@
     "recepie_Image": "https://images.unsplash.com/photo-1620991565081-82743a5a499c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Qmx1ZWJlcnJ5JTIwUGFuY2FrZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "categorie": "breakfast",
     "recepie_Description": "Blueberry pancakes are a delicious breakfast treat made by adding fresh blueberries to a pancake batter. The batter is cooked on a griddle until golden brown and fluffy, and then served hot with a drizzle of maple syrup."
-  },{
-    "recepie_Name": "Classic Margherita Pizza",
-    "Cook_Time": 15,
-    "Prep_Time": 10,
-    "Serves": 2,
-    "recepie_Ingredients": "1/2 cup tomato sauce, 1/2 cup shredded mozzarella cheese, 1/4 cup grated Parmesan cheese, 1/4 cup fresh basil leaves, 1 pre-made pizza crust, Salt and pepper to taste"
-    ,
-    "recepie_Image": "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Q2xhc3NpYyUyME1hcmdoZXJpdGElMjBQaXp6YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-    "categorie": "dinner",
-    "recepie_Description": "Classic Margherita Pizza is a simple yet delicious pizza with a thin crust, tomato sauce, fresh mozzarella cheese, and fresh basil leaves. It originated in Naples, Italy, and is a popular pizza all over the world."
   },
   {
     "recepie_Name": "Greek Salad",
